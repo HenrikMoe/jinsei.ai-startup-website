@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer-bottom">
-        © 2024 Jinsei Corp. All rights reserved.
+        © 2025 Jinsei Corp. All rights reserved.
       </div>
     </div>
   );
