@@ -26,7 +26,7 @@ const About = () => {
 
       <div className='aboutJinsei'>
         <p>
-          For inquiries or to discuss potential collaborations, contact us via email or connect with us on <a href='https://linkedin.com/company/jinseiai'>LinkedIn</a>.
+          For inquiries or to discuss potential collaborations, contact us via email or connect with us on <a href='https://x.com/jinseicorp'>X</a>.
         </p>
       </div>
 
