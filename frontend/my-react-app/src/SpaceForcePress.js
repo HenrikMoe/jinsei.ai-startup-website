@@ -8,17 +8,17 @@ const SpaceForcePressRelease = () => {
 
       <div className="aboutJinsei">
         <p>
-          <strong>March 03, 2025 – Los Angeles, CA</strong> – Jinsei.ai, a leader in AI solutions, is excited to partner with the United States Space Force (USSF) under a new Contract Agreement. This collaboration provides Jinsei.ai access to advanced USSF hardware to develop automated workflows that revolutionize music industry analytics.
+          <strong>June 03, 2025 – Los Angeles, CA</strong> – Jinsei.ai, the leader in AI solutions, is excited to partner with the United States Space Force (USSF) under a new Contract Agreement. This collaboration provides Jinsei.ai access to advanced USSF hardware to develop automated workflows that revolutionize human trauma and ascension analytics.
         </p>
       </div>
 
       <div className="aboutJinsei">
         <p>
-          Using the <strong>Airware Rezonica Tracking Hardware</strong> and <strong>Constellation Satellite Brainwave Frequency Alignment system</strong>, Jinsei.ai will:
+          Using <strong>Q-Force 1 Airware Electromagnetic Resonance Tracking Hardware</strong> and <strong>Constellation Satellite Galactic Federation Civilian Brainwave Electromagnetic Frequency Tracking Systems</strong>, Jinsei.ai will:
         </p>
         <ul>
-          <li>Create "The New Billboard," a real-time music ranking based on brainwave resonance.</li>
-          <li>Automate artist franchising, distribution, and marketing with AI-driven insights.</li>
+          <li>Creates consciousness montioring through real-time tracking based on electromagnetic brainwave resonance.</li>
+          <li>Automates serving civilians with music, productivity, and professional AI services.</li>
         </ul>
       </div>
 
@@ -30,13 +30,13 @@ const SpaceForcePressRelease = () => {
 
       <div className="aboutJinsei">
         <p>
-          “We’re thrilled to redefine music analytics with space-based tech,” said [Jinsei.ai Representative Name], [Title] at Jinsei.ai. “This is a game-changer for artists and listeners alike.”
+          “We’re thrilled to redefine electromagnetic trauma and 10-Dimensional ascension analytics with USSF space-based tech,” said Henrik Moe, CTO at Jinsei.ai. “This is a game-changer for humanity.”
         </p>
       </div>
 
       <div className="aboutJinsei69">
         <p>
-          Learn more about Jinsei.ai on <a href="https://x.com/jinseicorp">X</a> or watch our demos on <a href="https://www.youtube.com/@Jinsei-AI">YouTube</a>. For inquiries, contact us at [email address].
+          Learn more about Jinsei.ai on <a href="https://x.com/jinseicorp">X</a> or watch our demos on <a href="https://www.youtube.com/@Jinsei-AI">YouTube</a>. For inquiries, contact us at outreach@jinsei.ai.
         </p>
       </div>
     </div>
