@@ -44,7 +44,7 @@ import ActiveDemo from './activeDemo'
 import VFSBrowser from './reportBrowserUI/FileBrowser'
 import { DndProvider } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
-
+import SpaceForcePressRelease from './SpaceForcePress'
 
 const AppRoutes = () => {
   //const location = useLocation(); // Get the current location
@@ -107,6 +107,8 @@ const AppRoutes = () => {
         <Route path="/ReportBrowser" element={<FileBrowser />} />
         <Route path="/ControlPanel" element={<VFSBrowser listLoginInfo={listLoginInfo}/>} />
         <Route path="/activeDemo" element={<ActiveDemo listLoginInfo={listLoginInfo}/>} />
+        
+        <Route path="/SpaceForce" element={<SpaceForcePressRelease listLoginInfo={listLoginInfo}/>} />
 
       </Routes>
 

@@ -1,4 +1,4 @@
-import React, { useLayoutEffect, useState } from 'react'
+import React, { useLayoutEffect, useState } from 'react';
 import api from './api';
 import { GoogleLogin } from '@react-oauth/google';
 import { useNavigate } from 'react-router-dom';
@@ -12,8 +12,9 @@ import {
   animated,
   useTransition,
   useSpring,
-} from '@react-spring/web'
-import styles from './styles.module.css'
+} from '@react-spring/web';
+import styles from './styles.module.css';
+import SpaceForce from './SpaceForce.png'; // Adjust path if in src/assets/
 
 function Homepage() {
   const navigate = useNavigate();
@@ -94,11 +95,11 @@ function Homepage() {
   const IMAGES = [
     'https://images.squarespace-cdn.com/content/v1/5c77350965a707ed1710a1bc/1592330659753-70M66LGEPXFTQ8S716MX/Generative+Art+by+Mark+Stock+-+Gyre+35700.jpg',
     'https://images.squarespace-cdn.com/content/v1/5c77350965a707ed1710a1bc/1592330659753-70M66LGEPXFTQ8S716MX/Generative+Art+by+Mark+Stock+-+Gyre+35700.jpg',
-  ]
+  ];
 
   const App = () => {
-    const [activeIndex, setActiveIndex] = useState(0)
-    const springApi = useSpringRef()
+    const [activeIndex, setActiveIndex] = useState(0);
+    const springApi = useSpringRef();
 
     const transitions = useTransition(activeIndex, {
       from: {
@@ -112,7 +113,7 @@ function Homepage() {
       },
       onRest: (_springs, _ctrl, item) => {
         if (activeIndex === item) {
-          setActiveIndex(activeIndex === IMAGES.length - 1 ? 0 : activeIndex + 1)
+          setActiveIndex(activeIndex === IMAGES.length - 1 ? 0 : activeIndex + 1);
         }
       },
       exitBeforeEnter: true,
@@ -121,7 +122,7 @@ function Homepage() {
       },
       delay: 1000,
       ref: springApi,
-    })
+    });
 
     const springs = useSpring({
       from: {
@@ -135,11 +136,11 @@ function Homepage() {
       },
       loop: true,
       ref: springApi,
-    })
+    });
 
     useLayoutEffect(() => {
-      springApi.start()
-    }, [activeIndex])
+      springApi.start();
+    }, [activeIndex]);
 
     return (
       <div className={styles.container}>
@@ -161,8 +162,8 @@ function Homepage() {
           </div>
         </div>
       </div>
-    )
-  }
+    );
+  };
 
   return (
     <div className={`homepage-container ${isDarkMode ? 'dark-mode1' : ''}`}>
@@ -209,43 +210,79 @@ function Homepage() {
             mixBlendMode: 'normal',
           }}/>
         </Link>
+        {/* Only triangles here, tied to Active Demo */}
+        
       </div>
-      <div style={{ marginTop: '300px', marginBottom: '200px' }}>
-      </div>
-      <div style={styles2.bottomRightTriangle} />
-      <div style={styles2.rightTriangle} />
-      <div className={styles.overlayContainer}>
-        <div className={`arriving-text ${isDarkMode ? 'dark-mode-text' : ''}`}>
+
+      {/* Only the new SpaceForce Link with blue outer and white inner background */}
+      <>
+      {/* Inline CSS for mobile-specific styling */}
+      <style>
+        {`
+          @media (max-width: 768px) {
+            .mobile-margin-adjust {
+              margin-left: 15px !important;
+            }
+            .mobile-logo-shrink {
+              width: 112px !important;
+              height: 112px !important;
+            }
+          }
+        `}
+      </style>
+
+      <Link
+        to="/SpaceForce"
+        style={{
+          display: 'block',
+          backgroundColor: 'white',
+          padding: '90px',
+          marginTop: '300px',
+          borderRadius: '5px',
+          textDecoration: 'none',
+          cursor: 'pointer',
+          transition: 'all 0.3s ease',
+        }}
+      >
+        <div
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            backgroundColor: 'white',
+            padding: '15px 25px',
+            fontFamily: 'Arial, sans-serif',
+            fontSize: '22px',
+            color: '#000080',
+            borderRadius: '5px',
+          }}
+        >
+          <img
+            src={SpaceForce}
+            alt="SpaceForce"
+            className="mobile-logo-shrink"
+            style={{ width: '160px', height: '160px', marginRight: '15px' }}
+          />
+          <span style={{ fontSize: '28px' }}>x</span>
+          <span
+            className="mobile-margin-adjust"
+            style={{ marginLeft: '40px', fontSize: '38px', fontWeight: 'bold' }}
+          >
+            jinsei.ai
+          </span>
         </div>
+      </Link>
+    </>
+
+      <div style={{ marginTop: '300px', marginBottom: '0px' }}></div>
+      <div className={styles.overlayContainer}>
+        <div className={`arriving-text ${isDarkMode ? 'dark-mode-text' : ''}`}></div>
       </div>
     </div>
   );
 }
 
-const styles2 = {
-  bottomRightTriangle: {
-    position: 'absolute',
-    bottom: '-580px',
-    right: '440px',
-    width: '320px',
-    height: '100px',
-    backgroundColor: 'rgb(146, 146, 146);',
-    clipPath: 'polygon(0 0, 100% 0, 100% 50%)',
-    mixBlendMode: 'normal',
-    zIndex: 0,
-  },
-  rightTriangle: {
-    position: 'absolute',
-    bottom: '-495px',
-    right: '410px',
-    width: '40px',
-    height: '315px',
-    backgroundColor: 'rgb(146, 146, 146);',
-    clipPath: 'polygon(0 0, 0 100%, 90% 100%)',
-    zIndex: 0,
-    mixBlendMode: 'normal',
-  },
-};
+
 
 const mediaQueries = {
   '@media (max-width: 600px)': {
