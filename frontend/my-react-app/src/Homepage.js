@@ -167,52 +167,7 @@ function Homepage() {
 
   return (
     <div className={`homepage-container ${isDarkMode ? 'dark-mode1' : ''}`}>
-      <div className={styles.container} style={{ height: '500px' }}>
-        <Link
-          to="/activedemo"
-          style={{
-            display: 'inline-block',
-            padding: '10px 20px',
-            backgroundColor: 'red',
-            color: 'white',
-            fontFamily: 'sans-serif',
-            textDecoration: 'none',
-            border: 'none',
-            marginTop: '100px',
-            fontSize: '40px',
-            borderRadius: 0,
-            zIndex: '1',
-            cursor: 'pointer',
-            position: 'relative',
-            transition: 'all 0.2s ease-in-out',
-          }}
-        >
-          Active Demo
-          <div style={{
-            position: 'absolute',
-            bottom: '-100px',
-            right: '-15px',
-            width: '280px',
-            height: '100px',
-            backgroundColor: 'rgb(208, 208, 208)',
-            clipPath: 'polygon(0 0, 100% 0, 100% 50%)',
-            mixBlendMode: 'normal',
-          }}/>
-          <div style={{
-            position: 'absolute',
-            bottom: '-15px',
-            right: '-40px',
-            width: '40px',
-            height: '80px',
-            backgroundColor: 'rgb(208, 208, 208)',
-            clipPath: 'polygon(0 0, 0 100%, 90% 100%)',
-            zIndex: '0',
-            mixBlendMode: 'normal',
-          }}/>
-        </Link>
-        {/* Only triangles here, tied to Active Demo */}
-        
-      </div>
+    
 
       {/* Only the new SpaceForce Link with blue outer and white inner background */}
       <>
@@ -273,6 +228,53 @@ function Homepage() {
         </div>
       </Link>
     </>
+
+    <div className={styles.container} style={{ height: '500px' }}>
+        <Link
+          to="/activedemo"
+          style={{
+            display: 'inline-block',
+            padding: '10px 20px',
+            backgroundColor: 'red',
+            color: 'white',
+            fontFamily: 'sans-serif',
+            textDecoration: 'none',
+            border: 'none',
+            marginTop: '100px',
+            fontSize: '40px',
+            borderRadius: 0,
+            zIndex: '1',
+            cursor: 'pointer',
+            position: 'relative',
+            transition: 'all 0.2s ease-in-out',
+          }}
+        >
+          Active Demo
+          <div style={{
+            position: 'absolute',
+            bottom: '-100px',
+            right: '-15px',
+            width: '280px',
+            height: '100px',
+            backgroundColor: 'rgb(208, 208, 208)',
+            clipPath: 'polygon(0 0, 100% 0, 100% 50%)',
+            mixBlendMode: 'normal',
+          }}/>
+          <div style={{
+            position: 'absolute',
+            bottom: '-15px',
+            right: '-40px',
+            width: '40px',
+            height: '80px',
+            backgroundColor: 'rgb(208, 208, 208)',
+            clipPath: 'polygon(0 0, 0 100%, 90% 100%)',
+            zIndex: '0',
+            mixBlendMode: 'normal',
+          }}/>
+        </Link>
+        {/* Only triangles here, tied to Active Demo */}
+        
+      </div>
 
       <div style={{ marginTop: '300px', marginBottom: '0px' }}></div>
       <div className={styles.overlayContainer}>
