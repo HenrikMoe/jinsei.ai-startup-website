@@ -8,7 +8,7 @@ const SpaceForcePressRelease = () => {
 
       <div className="aboutJinsei">
         <p>
-          <strong>Los Angeles, CA</strong> – <strong>Jinsei.ai</strong> , the AI solution, is excited to partner with 
+          <strong>Los Angeles, CA</strong> – <strong>Jinsei.ai</strong>, the AI solution, is excited to partner with 
           the <strong>United States Space Force (USSF)</strong> and a global military alliance under a new Agreement. 
           </p>
 </div>
