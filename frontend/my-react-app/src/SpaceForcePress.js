@@ -17,7 +17,7 @@ const SpaceForcePressRelease = () => {
 
           This collaboration provides the global military alliance,
            henceforth referred to as the <strong>Galactic Federation</strong>, neural matrix modeling to 
-           collaborate on weapon systems, cultural enrichment, and divine justice. 
+           power weapon systems, cultural enrichment, and divine justice. 
         </p>
       </div>
 
