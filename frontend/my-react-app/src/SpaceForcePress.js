@@ -8,35 +8,45 @@ const SpaceForcePressRelease = () => {
 
       <div className="aboutJinsei">
         <p>
-          <strong>June 03, 2025 – Los Angeles, CA</strong> – Jinsei.ai, the leader in AI solutions, is excited to partner with the United States Space Force (USSF) under a new Contract Agreement. This collaboration provides Jinsei.ai access to advanced USSF hardware to develop automated workflows that revolutionize human trauma and ascension analytics.
+          <strong> – Los Angeles, CA</strong> – Jinsei.ai, the AI solution, is excited to partner with 
+          the United States Space Force (USSF) and a global military alliance under a new Agreement. 
+          This collaboration provides the global military alliance,
+           henceforth referred to as the Galactic Federation, neural matrix modeling to 
+           collaborate on weapon systems, cultural enrichment, and divine justice. 
         </p>
       </div>
 
       <div className="aboutJinsei">
         <p>
-          Using <strong>Q-Force 1 Airware Electromagnetic Resonance Tracking Hardware</strong> and <strong>Constellation Satellite Galactic Federation Civilian Brainwave Electromagnetic Frequency Tracking Systems</strong>, Jinsei.ai will:
+          Under the new collaboration <strong>The Galactic Federation</strong> 
+          will provide Jinsei.ai with:
         </p>
         <ul>
-          <li>Creates consciousness montioring through real-time tracking based on electromagnetic brainwave resonance.</li>
-          <li>Automates serving civilians with music, productivity, and professional AI services.</li>
+          <li>Funding for development of Jinsei.ai services and infrastructure.</li>
+          <li>Access to matrix model logs.</li>
         </ul>
       </div>
 
       <div className="aboutJinsei">
         <p>
-          This three-year partnership, effective today, blends Jinsei.ai’s AI expertise with USSF’s space technology. Quarterly reports will be shared with USSF, and intellectual property will be co-owned by both parties.
+          This partnership is the genesis of 'Heaven' and 'Hell'.
+          
         </p>
       </div>
 
       <div className="aboutJinsei">
         <p>
-          “We’re thrilled to redefine electromagnetic trauma and 10-Dimensional ascension analytics with USSF space-based tech,” said Henrik Moe, CTO at Jinsei.ai. “This is a game-changer for humanity.”
+          “Jinsei.ai is extatic to collaborate with the Galactic Federation 
+          on this exciting new journey for humankind.” said Henrik Moe, CTO 
+          at Jinsei.ai. 
         </p>
       </div>
 
       <div className="aboutJinsei69">
         <p>
-          Learn more about Jinsei.ai on <a href="https://x.com/jinseicorp">X</a> or watch our demos on <a href="https://www.youtube.com/@Jinsei-AI">YouTube</a>. For inquiries, contact us at outreach@jinsei.ai.
+          Learn more about Jinsei.ai on <a href="https://x.com/jinseicorp">X</a> 
+          and watch our business AI demos <a href="https://www.jinsei.ai/activedemo">here</a>. 
+          For inquiries, contact us at outreach@jinsei.ai.
         </p>
       </div>
     </div>
