@@ -192,7 +192,7 @@ function Homepage() {
           display: 'block',
           backgroundColor: 'white',
           padding: '90px',
-          marginTop: '300px',
+          marginTop: '130px',
           borderRadius: '5px',
           textDecoration: 'none',
           cursor: 'pointer',
