@@ -240,7 +240,7 @@ function Homepage() {
             fontFamily: 'sans-serif',
             textDecoration: 'none',
             border: 'none',
-            marginTop: '100px',
+            marginTop: '250px',
             fontSize: '40px',
             borderRadius: 0,
             zIndex: '1',
