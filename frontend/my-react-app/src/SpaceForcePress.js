@@ -41,7 +41,7 @@ const SpaceForcePressRelease = () => {
 
       <div className="aboutJinsei">
         <p>
-          “Jinsei.ai is extatic to collaborate with the Galactic Federation 
+          “Jinsei.ai is ecstatic to collaborate with the Galactic Federation 
           on this exciting new journey for humankind.” said Henrik Moe, CTO 
           at <strong>Jinsei.ai</strong>. 
         </p>
