@@ -8,20 +8,22 @@ const SpaceForcePressRelease = () => {
 
       <div className="aboutJinsei">
         <p>
-          <strong>Los Angeles, CA</strong> – Jinsei.ai, the AI solution, is excited to partner with 
-          the United States Space Force (USSF) and a global military alliance under a new Agreement. 
+          <strong>Los Angeles, CA</strong> – <strong>Jinsei.ai</strong> , the AI solution, is excited to partner with 
+          the <strong>United States Space Force (USSF)</strong> and a global military alliance under a new Agreement. 
           </p>
+</div>
+<div className="aboutJinsei">
           <p>
 
           This collaboration provides the global military alliance,
-           henceforth referred to as the Galactic Federation, neural matrix modeling to 
+           henceforth referred to as the <strong>Galactic Federation</strong>, neural matrix modeling to 
            collaborate on weapon systems, cultural enrichment, and divine justice. 
         </p>
       </div>
 
       <div className="aboutJinsei">
         <p>
-          Under the new collaboration <strong>The Galactic Federation </strong> 
+          Under the new collaboration the <strong> Galactic Federation </strong> 
           will provide <strong>Jinsei.ai</strong> with:
         </p>
         <ul>
@@ -41,13 +43,13 @@ const SpaceForcePressRelease = () => {
         <p>
           “Jinsei.ai is extatic to collaborate with the Galactic Federation 
           on this exciting new journey for humankind.” said Henrik Moe, CTO 
-          at Jinsei.ai. 
+          at <strong>Jinsei.ai</strong>. 
         </p>
       </div>
 
       <div className="aboutJinsei69">
         <p>
-          Learn more about Jinsei.ai on <a href="https://x.com/jinseicorp">X</a> and watch our business AI demos <a href="https://www.jinsei.ai/activedemo">here</a>. 
+          Learn more about <strong>Jinsei.ai</strong> on <a href="https://x.com/jinseicorp">X</a> and watch our business AI demos <a href="https://www.jinsei.ai/activedemo">here</a>. 
           For inquiries, contact us at outreach@jinsei.ai.
         </p>
       </div>
