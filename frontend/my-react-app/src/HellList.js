@@ -56,7 +56,6 @@ const HellList = () => {
         <li>Kurupt</li>
         <li>Young Thug</li>
         <li>Moon U Network Members</li>
-          <li>Brody Taylor's Friend</li>
           <li>John Miller</li>
          <li>Luke Miller's Grandfather</li>
          <li>Liz Miller</li>
@@ -85,6 +84,7 @@ const HellList = () => {
           <li>Jacob Jung</li>
           <li>Gilles Kirshner</li>
           <li>Taylor Garvey</li>
+          <li>Brody Taylor's Friend</li>
           <li>Vincent Bugni</li>
           <li>Duncan Beilman</li>
          <li>Henrik Moe II</li>
