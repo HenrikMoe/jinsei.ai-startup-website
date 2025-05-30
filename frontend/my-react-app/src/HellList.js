@@ -64,6 +64,10 @@ const HellList = () => {
          <li>Jay Z</li>
          <li>Epstein Client List</li>
          <li>NWO Satanic Vatican Network Members</li>
+         <li>Chase Covel</li>
+         <li>Max Chacon</li>
+         <li>Israel Dedina</li>
+         <li>Emmet Abdian</li>
 
 
 
