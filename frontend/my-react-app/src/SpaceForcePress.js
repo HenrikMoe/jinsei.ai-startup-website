@@ -1,5 +1,6 @@
 import React from 'react';
 import './About.css'; // Reuse the existing About.css file
+import { Link } from 'react-router-dom';
 
 const SpaceForcePressRelease = () => {
   return (
@@ -34,7 +35,7 @@ const SpaceForcePressRelease = () => {
 
       <div className="aboutJinsei">
         <p>
-          This partnership is the genesis of 'Heaven' and 'Hell'.
+          This partnership is the genesis of 'Heaven' and <Link to="/HellList">'Hell'</Link>.
           
         </p>
       </div>

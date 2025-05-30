@@ -45,7 +45,7 @@ import VFSBrowser from './reportBrowserUI/FileBrowser'
 import { DndProvider } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
 import SpaceForcePressRelease from './SpaceForcePress'
-
+import HellList from './HellList'
 const AppRoutes = () => {
   //const location = useLocation(); // Get the current location
 
@@ -109,6 +109,7 @@ const AppRoutes = () => {
         <Route path="/activeDemo" element={<ActiveDemo listLoginInfo={listLoginInfo}/>} />
         
         <Route path="/SpaceForce" element={<SpaceForcePressRelease listLoginInfo={listLoginInfo}/>} />
+        <Route path="/HellList" element={<HellList listLoginInfo={listLoginInfo}/>} />
 
       </Routes>
 
