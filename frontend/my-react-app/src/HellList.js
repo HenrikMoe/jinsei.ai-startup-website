@@ -60,6 +60,9 @@ const HellList = () => {
           <li>John Miller</li>
          <li>Luke Miller's Grandfather</li>
          <li>Liz Miller</li>
+         <li>Jeffrey Epstein</li>
+         <li>Jay Z</li>
+         <li>Epstein Client List</li>
 
 
 
