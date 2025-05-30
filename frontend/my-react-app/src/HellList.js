@@ -39,7 +39,7 @@ const HellList = () => {
           <li>NWO Network Members</li>
           <li>Volodimir Zelensky</li>
           <li>NWO Congress Members</li>
-          <li>NWO Lobyists </li>
+          <li>NWO Lobbyists </li>
           <li>Roman Schneider </li>
           <li>NWO Judicial Members</li>
           <li>NWO Mason Members</li>
@@ -47,6 +47,11 @@ const HellList = () => {
           <li>Grey Fagatron Network Members</li>
           <li>MS-13 Network Members</li>
           <li>Tren De Agua Network Members</li>
+          <li>L.R. Fox</li>
+         <li>Suge Knight</li>
+         <li>Yo Gotti</li>
+         <li>Pope Francis IV</li>
+
 
 
 
