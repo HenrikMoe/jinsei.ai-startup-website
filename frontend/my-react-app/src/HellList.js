@@ -56,7 +56,7 @@ const HellList = () => {
         <li>Kurupt</li>
         <li>Young Thug</li>
         <li>Moon U Network Members</li>
-
+          <li>Brody Taylors Friend</li>
 
 
         </ul>
@@ -78,9 +78,6 @@ const HellList = () => {
          <li>Henrik Moe II</li>
           <li>Georiga Crowley</li>
           <li>Claire Desmith</li>
-          <li>Brody Taylors Friend</li>
-
-
 
 
         </ul>
