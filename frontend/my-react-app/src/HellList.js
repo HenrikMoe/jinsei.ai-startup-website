@@ -51,7 +51,11 @@ const HellList = () => {
          <li>Suge Knight</li>
          <li>Yo Gotti</li>
          <li>Pope Francis IV</li>
-
+        <li>Snoop Dogg</li>
+        <li>Daz Dillinger</li>
+        <li>Kurupt</li>
+        <li>Young Thug</li>
+        <li>Moon U Network Members</li>
 
 
 
@@ -74,6 +78,8 @@ const HellList = () => {
          <li>Henrik Moe II</li>
           <li>Georiga Crowley</li>
           <li>Claire Desmith</li>
+
+
 
 
         </ul>
