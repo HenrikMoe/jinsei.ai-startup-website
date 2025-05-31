@@ -67,6 +67,7 @@ const HellList = () => {
          <li>Max Chacon</li>
          <li>Israel Dedina</li>
          <li>Emmet Abdian</li>
+         <li>David Austin's Friend</li>
 
 
 
@@ -90,7 +91,6 @@ const HellList = () => {
          <li>Henrik Moe II</li>
           <li>Georiga Crowley</li>
           <li>Claire Desmith</li>
-         <li>David Austin's Friend</li>
 
 
         </ul>
