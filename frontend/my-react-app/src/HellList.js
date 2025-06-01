@@ -69,7 +69,10 @@ const HellList = () => {
          <li>Emmet Abdian</li>
          <li>David Austin's Friend</li>
          <li>Ryan From NWO</li>
-         <li>Child Predators and Pedophiles</li>
+         <li>Child Predators</li>
+         <li>Bill Gates</li>
+         <li>Oprah Winfrey</li>
+         <li>Pedophiles</li>
 
 
 
