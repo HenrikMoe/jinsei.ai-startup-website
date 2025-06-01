@@ -69,6 +69,7 @@ const HellList = () => {
          <li>Emmet Abdian</li>
          <li>David Austin's Friend</li>
          <li>Ryan From NWO</li>
+         <li>Child Predators and Pedophiles</li>
 
 
 
@@ -92,6 +93,8 @@ const HellList = () => {
          <li>Henrik Moe II</li>
           <li>Georiga Crowley</li>
           <li>Claire Desmith</li>
+         <li>Predatory Gay People</li>
+         <li>Predatory Straight People</li>
 
 
         </ul>
