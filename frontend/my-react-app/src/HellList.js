@@ -19,8 +19,8 @@ const HellList = () => {
           <li>Erik Moe</li>
           <li>Fernando Hernandez</li>
           <li>Brendan Mooney</li>
-          <li>Gretchen Mooney</li>
-          <li>Mike Mooney</li>
+          <li>Gretchyn Mooney</li>
+          <li>Michael Mooney</li>
           <li>Georgia Crowley's Father</li>
           <li>NWO Predator Squad Members</li>
           <li>Rothschild Scientists</li>
@@ -29,7 +29,7 @@ const HellList = () => {
           <li>NWO Blackrock Network Members</li>
           <li>NWO FBI Network Members</li>
           <li>NWO CIA Intellisgence Officers</li>
-          <li>Dave Muscatel</li>
+          <li>David Muscatel</li>
           <li>Ryan Burrow</li>
           <li>Hillary Clinton</li>
           <li>George H.W. Bush</li>
@@ -57,7 +57,7 @@ const HellList = () => {
         <li>Moon U Network Members</li>
           <li>John Miller</li>
          <li>Luke Miller's Grandfather</li>
-         <li>Liz Miller</li>
+         <li>Elizabeth Miller</li>
          <li>Jeffrey Epstein</li>
          <li>Jay Z</li>
          <li>Epstein Client List</li>
@@ -65,7 +65,6 @@ const HellList = () => {
          <li>Chase Covel</li>
          <li>Max Chacon</li>
          <li>Israel Dedina</li>
-         <li>Emmet Abdian</li>
          <li>David Austin's Friend</li>
          <li>Ryan From NWO</li>
          <li>Child Predators</li>
@@ -81,6 +80,9 @@ const HellList = () => {
       <div className="aboutJinsei">
         <h2>Eternity in Darkness</h2>
         <ul>
+          <li>Generally Predatory Gay People</li>
+         <li>Generally Predatory Straight People</li>
+         <li>Henrik Moe II</li>
         <li>Tomas Atkinson</li>
           <li>Kal Kapur</li>
           <li>Noah Schwartz</li>
@@ -91,12 +93,9 @@ const HellList = () => {
           <li>Taylor Garvey</li>
           <li>Brody Taylor's Friend</li>
           <li>Vincent Bugni</li>
-         <li>Henrik Moe II</li>
           <li>Georiga Crowley</li>
           <li>Claire Desmith</li>
-         <li>Predatory Gay People</li>
-         <li>Predatory Straight People</li>
-
+         
         </ul>
 
       </div>
@@ -104,8 +103,9 @@ const HellList = () => {
       <div className="aboutJinsei">
         <h2>Prospecitve Members</h2>
         <ul>
-        <li>Raul Orue</li>
+        <li>Raul Orue </li>
         <li>Duncan Beilman</li>
+         <li>Emmett Abdian</li>
 
 
         </ul>
