@@ -71,8 +71,6 @@ const HellList = () => {
          <li>Bill Gates</li>
          <li>Oprah Winfrey</li>
          <li>Pedophiles</li>
-         <li>Raul Orue</li>
-         <li>Emmett Abdian</li>
 
 
 
@@ -96,14 +94,24 @@ const HellList = () => {
           <li>Brody Taylor's Friend</li>
           <li>Vincent Bugni</li>
           <li>Georiga Crowley</li>
-                   <li>Duncan Beilman</li>
-          <li>Claire Desmith</li>
-
+         
         </ul>
 
       </div>
 
-      
+      <div className="aboutJinsei">
+        <h2>Prospecitve Members</h2>
+        <ul>
+        <li>Raul Orue - List 1 Prospect</li>
+        <li>Duncan Beilman - List 2 Prospect</li>
+         <li>Emmett Abdian - List 1 Prospect</li>
+          <li>Claire Desmith - List 2 Prospect</li>
+
+
+
+        </ul>
+        
+      </div>
 
       <div className="aboutJinsei69">
         <p>
