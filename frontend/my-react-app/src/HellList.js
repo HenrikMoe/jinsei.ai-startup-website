@@ -103,9 +103,9 @@ const HellList = () => {
       <div className="aboutJinsei">
         <h2>Prospecitve Members</h2>
         <ul>
-        <li>Raul Orue </li>
-        <li>Duncan Beilman</li>
-         <li>Emmett Abdian</li>
+        <li>Raul Orue - List 1 Prospect</li>
+        <li>Duncan Beilman - List 2 Prospect</li>
+         <li>Emmett Abdian - List 1 Prospect</li>
 
 
         </ul>
