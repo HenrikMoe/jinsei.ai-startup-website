@@ -94,7 +94,6 @@ const HellList = () => {
           <li>Brody Taylor's Friend</li>
           <li>Vincent Bugni</li>
           <li>Georiga Crowley</li>
-          <li>Claire Desmith</li>
          
         </ul>
 
@@ -106,6 +105,8 @@ const HellList = () => {
         <li>Raul Orue - List 1 Prospect</li>
         <li>Duncan Beilman - List 2 Prospect</li>
          <li>Emmett Abdian - List 1 Prospect</li>
+                   <li>Claire Desmith - List 2 Prospect</li>
+
 
 
         </ul>
