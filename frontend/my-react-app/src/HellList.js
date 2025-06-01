@@ -31,7 +31,6 @@ const HellList = () => {
           <li>NWO CIA Intellisgence Officers</li>
           <li>Dave Muscatel</li>
           <li>Ryan Burrow</li>
-          <li>Raul Orue</li>
           <li>Hillary Clinton</li>
           <li>George H.W. Bush</li>
           <li>NWO NGO Network Members</li>
@@ -92,15 +91,25 @@ const HellList = () => {
           <li>Taylor Garvey</li>
           <li>Brody Taylor's Friend</li>
           <li>Vincent Bugni</li>
-          <li>Duncan Beilman</li>
          <li>Henrik Moe II</li>
           <li>Georiga Crowley</li>
           <li>Claire Desmith</li>
          <li>Predatory Gay People</li>
          <li>Predatory Straight People</li>
 
+        </ul>
+
+      </div>
+
+      <div className="aboutJinsei">
+        <h2>Prospecitve Members</h2>
+        <ul>
+        <li>Raul Orue</li>
+        <li>Duncan Beilman</li>
+
 
         </ul>
+        
       </div>
 
       <div className="aboutJinsei69">
