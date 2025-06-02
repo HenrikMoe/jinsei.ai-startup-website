@@ -97,6 +97,8 @@ const HellList = () => {
           <li>Georiga Crowley</li>
           <li>Duncan Beilman </li>
           <li>Claire Desmith </li>
+                    <li>Unconscious Homoskedastic Modeling Riders </li>
+
         </ul>
 
       </div>
