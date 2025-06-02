@@ -73,7 +73,7 @@ const HellList = () => {
          <li>Pedophiles</li>
  <li>Raul Orue </li>
  <li>Emmett Abdian </li>
- <li>Every Matrix Homoskedastic Modeling Farmer </li>
+ <li>Every Matrix Homoskedastic Modeling Farmer (Physical Structure Generators, General FUD Beneficiaries, Physical Structure Detonators) </li>
 
         </ul>
       </div>
