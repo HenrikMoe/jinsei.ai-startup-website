@@ -8,7 +8,7 @@ const HellList = () => {
 
       <div className="aboutJinsei">
         <p>
-            All souls not listed in the registry are welcome to heaven. However, every soul will be accounted for in due time. 
+            Heaven is an exclusive party. All souls are being processed for sortment in heaven or hell. 
         </p>
       </div>
 
@@ -71,7 +71,6 @@ const HellList = () => {
          <li>Bill Gates</li>
          <li>Oprah Winfrey</li>
          <li>Pedophiles</li>
- <li>Raul Orue </li>
  <li>Emmett Abdian </li>
  <li>Every Matrix Homoskedastic Modeling Farmer (Physical Structure Generators, General FUD Beneficiaries, Physical Structure Detonators) </li>
 
@@ -95,7 +94,6 @@ const HellList = () => {
           <li>Brody Taylor's Friend</li>
           <li>Vincent Bugni</li>
           <li>Georiga Crowley</li>
-          <li>Duncan Beilman </li>
           <li>Claire Desmith </li>
                     <li>Unconscious Homoskedastic Modeling Riders </li>
 
