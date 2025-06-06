@@ -20,7 +20,8 @@ const HellList = () => {
           <li>Alexandra Moe</li>
           <li>Erik Moe</li>
          <li>Sex Traffickers</li>
-         
+         <li>Rapists</li>
+         <li>Unjust Murderers</li>
           <li>Gretchyn Mooney</li>
         
           <li>Georgia Crowley's Father</li>
