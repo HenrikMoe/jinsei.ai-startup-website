@@ -70,7 +70,7 @@ const HellList = () => {
          <li>Bill Gates</li>
          <li>Oprah Winfrey</li>
          <li>Pedophiles</li>
-          <li>Child Molestors</li>
+          <li>Child Molesters</li>
 
         </ul>
       </div>
