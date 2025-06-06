@@ -8,7 +8,7 @@ const HellList = () => {
 
       <div className="aboutJinsei">
         <p>
-              All souls are eternalized in heaven or hell. Hell has multiple levels. Every soul condemed to hell depends on complete public prosecution.  Souls in the Eternal Mutilation and Killing deparment are suspected of capital treason, conspiracy, and crimes against humanity. 
+              All souls are eternalized in heaven or hell. Hell has multiple levels. Every soul condemed to hell awaits complete public prosecution.  Souls in the Eternal Mutilation and Killing department are suspected of capital treason, conspiracy, and crimes against humanity. 
         </p>
       </div>
 
