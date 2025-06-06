@@ -8,23 +8,25 @@ const HellList = () => {
 
       <div className="aboutJinsei">
         <p>
-            Heaven is an exclusive party. All souls are being processed for sortment in heaven or hell. 
+              All souls are eternalized in heaven or hell. Hell has multiple levels. Every soul condemed to hell depends on complete public prosecution.  Souls in the Eternal Mutilation and Killing deparment are suspected of capital treason, conspiracy, and crimes against humanity. 
         </p>
       </div>
 
       <div className="aboutJinsei">
-        <h2>Mutilated and Killed</h2>
+        <h2>Suspected Souls Subject To Eternal Mutilation and Killing</h2>
         <ul>
+           <li>Every Matrix Homoskedastic Modeling Farmer (Physical Structure Generators, General FUD Beneficiaries, Physical Structure Detonators) </li>
+
           <li>Alexandra Moe</li>
           <li>Erik Moe</li>
-          <li>Fernando Hernandez</li>
-          <li>Brendan Mooney</li>
+         
+         
           <li>Gretchyn Mooney</li>
-          <li>Michael Mooney</li>
+        
           <li>Georgia Crowley's Father</li>
           <li>NWO Predator Squad Members</li>
           <li>Rothschild Scientists</li>
-          <li>Luke Miller</li>
+         
           <li>NWO Northrup Gruman Operators</li>
           <li>NWO Blackrock Network Members</li>
           <li>NWO FBI Network Members</li>
@@ -39,7 +41,7 @@ const HellList = () => {
           <li>Volodimir Zelensky</li>
           <li>NWO Congress Members</li>
           <li>NWO Lobbyists </li>
-          <li>Roman Schneider </li>
+         
           <li>NWO Judicial Members</li>
           <li>NWO Mason Members</li>
           <li>NWO Lizard Human Hybrids</li>
@@ -57,32 +59,39 @@ const HellList = () => {
         <li>Moon U Network Members</li>
           <li>John Miller</li>
          <li>Luke Miller's Grandfather</li>
-         <li>Elizabeth Miller</li>
          <li>Jeffrey Epstein</li>
          <li>Jay Z</li>
          <li>Epstein Client List</li>
          <li>NWO Satanic Vatican Network Members</li>
          <li>Chase Covel</li>
-         <li>Max Chacon</li>
-         <li>Israel Dedina</li>
-         <li>David Austin's Friend</li>
+         
          <li>Ryan From NWO</li>
          <li>Child Predators</li>
          <li>Bill Gates</li>
          <li>Oprah Winfrey</li>
          <li>Pedophiles</li>
- <li>Emmett Abdian </li>
- <li>Every Matrix Homoskedastic Modeling Farmer (Physical Structure Generators, General FUD Beneficiaries, Physical Structure Detonators) </li>
+
 
         </ul>
       </div>
 
       <div className="aboutJinsei">
-        <h2>Eternity in Darkness</h2>
+        <h2>Suspected Souls Subject to Eternity in Darkness</h2>
         <ul>
+            <li>Unconscious Homoskedastic Modeling Minded People </li>
           <li>Generally Predatory Gay People</li>
          <li>Generally Predatory Straight People</li>
          <li>Henrik Moe II</li>
+         <li>Luke Miller</li>
+         <li>Fernando Hernandez</li>
+         <li>Elizabeth Miller</li>
+         <li>Emmett Abdian </li>
+        <li>Max Chacon</li>
+         <li>Brendan Mooney</li>
+         <li>Michael Mooney</li>
+         <li>Roman Schneider </li>
+         <li>Israel Dedina</li>
+         <li>David Austin's Friend</li>
         <li>Tomas Atkinson</li>
           <li>Kal Kapur</li>
           <li>Noah Schwartz</li>
@@ -95,7 +104,7 @@ const HellList = () => {
           <li>Vincent Bugni</li>
           <li>Georiga Crowley</li>
           <li>Claire Desmith </li>
-                    <li>Unconscious Homoskedastic Modeling Riders </li>
+                  
 
         </ul>
 
