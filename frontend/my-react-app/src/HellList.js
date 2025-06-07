@@ -22,7 +22,6 @@ const HellList = () => {
          <li>Sex Traffickers</li>
          <li>Rapists</li>
          <li>Unjust Murderers</li>
-          <li>Gretchyn Mooney</li>
         
           <li>Georgia Crowley's Father</li>
           <li>NWO Predator Squad Members</li>
@@ -85,7 +84,7 @@ const HellList = () => {
          <li>Henrik Moe II</li>
          <li>Luke Miller</li>
          <li>Fernando Hernandez</li>
-         
+           <li>Gretchyn Mooney</li>
          <li>Emmett Abdian </li>
         <li>Max Chacon</li>
          <li>Brendan Mooney</li>
