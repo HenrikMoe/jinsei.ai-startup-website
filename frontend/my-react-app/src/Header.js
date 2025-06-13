@@ -58,7 +58,7 @@ const Header = ({ currentRoute, userInfo }) => {
     // { label: 'White-Paper', url: 'https://docs.google.com/document/d/1m_ZNJheDIbt9JHsljOIoZ6awDcaWswWgvlRDGKK3vSE/edit?usp=sharing' },
     // { label: 'Deck', url: 'https://drive.google.com/file/d/1JrjXCzGImy7K36S9duByjM5D7a4xpgCq/view?usp=sharing' },
     // { label: 'Architecture White-Paper', pdfUrl: pdfUrl, pdfFileName: pdfFileName }, // Pass PDF URL and file name as props
-    { label: 'GitHub', url: 'https://github.com/HenrikMoe' },
+    { label: 'GitHub', url: 'https://github.com/HenrikMoe/Service-Infrastructure' },
     { label: 'Privacy', url: 'https://jinsei.ai/privacy' },
     { label: 'Service', url: 'https://jinsei.ai/tos' },
   ];
@@ -128,7 +128,7 @@ const Header = ({ currentRoute, userInfo }) => {
             <a target="_blank" lassName={`title5 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} href='https://www.youtube.com/@Jinsei-AI'><img className='socials' src={`${process.env.PUBLIC_URL}/youtube.png`} alt="f Image" /></a>
           <a target="_blank" lassName={`title5 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} href='https://twitter.com/jinseicorp'><img className='socials' src={`${process.env.PUBLIC_URL}/twitter-x.png`} alt="a Image" /></a>
           <a target="_blank" lassName={`title5 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} href='https://discord.gg/fn6aus72'><img className='socials' src={`${process.env.PUBLIC_URL}/discord.png`} alt="a g" /></a>
-          <a target="_blank" lassName={`title5 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} href='https://github.com/henrikmoe'><img className='socials' src={`${process.env.PUBLIC_URL}/github.png`} alt="f Image" /></a>
+          <a target="_blank" lassName={`title5 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} href='https://github.com/HenrikMoe/Service-Infrastructure'><img className='socials' src={`${process.env.PUBLIC_URL}/github.png`} alt="f Image" /></a>
 
 
             <a target="_blank" className={`title16 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} >{userInfo.given_name} {userInfo.family_name}</a>
@@ -137,7 +137,7 @@ const Header = ({ currentRoute, userInfo }) => {
             <a target="_blank" lassName={`title5 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} href='https://www.youtube.com/@Jinsei-AI'><img className='socials' src={`${process.env.PUBLIC_URL}/youtube.png`} alt="f Image" /></a>
             <a target="_blank" lassName={`title5 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} href='https://twitter.com/jinseicorp'><img className='socials' src={`${process.env.PUBLIC_URL}/twitter-x.png`} alt="a Image" /></a>
             <a target="_blank" lassName={`title5 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} href='https://discord.gg/fn6aus72'><img className='socials' src={`${process.env.PUBLIC_URL}/discord.png`} alt="a g" /></a>
-            <a target="_blank" lassName={`title5 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} href='https://github.com/henrikmoe'><img className='socials' src={`${process.env.PUBLIC_URL}/github.png`} alt="f Image" /></a>
+            <a target="_blank" lassName={`title5 ${isHeaderVisible ? '' : 'hidden'} ${isDarkMode ? 'dark-mode' : ''}`} href='https://github.com/HenrikMoe/Service-Infrastructure'><img className='socials' src={`${process.env.PUBLIC_URL}/github.png`} alt="f Image" /></a>
 
           </div>}
 
