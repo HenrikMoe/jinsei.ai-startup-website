@@ -21,6 +21,7 @@ const HellList = () => {
           <li>Child Predators</li>
           <li>Child Rapists</li>
           <li>CIA Network Stolen Home Porn Viewers</li>
+          <li>Daimler AG Board Members</li>
           <li>Epstein Client List</li>
           <li>Every Matrix Homoskedastic Modeling Farmer (Physical Structure Generators, General FUD Beneficiaries, Physical Structure Detonators)</li>
           <li>FBI Network Stolen Home Porn Viewers</li>
