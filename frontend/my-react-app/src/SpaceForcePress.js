@@ -35,7 +35,7 @@ const SpaceForcePressRelease = () => {
 
       <div className="aboutJinsei">
         <p>
-          This partnership is the genesis of 'Heaven' and <Link to="/HellList">'Hell'</Link>.
+          This partnership is the genesis of <a href="https://github.com/HenrikMoe/Service-Infrastructure/blob/main/README.md" target="_blank">'Heaven'</a>  and <Link to="/HellList">'Hell'</Link>.
           
         </p>
       </div>
